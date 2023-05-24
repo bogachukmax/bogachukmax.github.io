@@ -18,7 +18,12 @@
     <!-- =======================  Каркас сайта ===============wid========== -->
     <table border="1" align="center" cellpadding="10">
         <tr>
-            <td background="images/bg-3.jpg" colspan="2" height="150" align="right" hspace="5"><font size="5"><h1 class="shadowtext">Web-Studio "Web-DECO"</h1></td>
+             <td background="images/bg-3.jpg" colspan="2" height="150" align="right" hspace="5">
+            <img src="images/logo.png" alt="" height="140" width="140" align="left">
+            <font color="Maroon">
+                <h1 class="shadowtext">Сайт студії "WEB-DECO"</h1>
+            </font>
+        </td>
         </tr>
         <tr>
             <td colspan="2">
