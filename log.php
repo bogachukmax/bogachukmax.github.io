@@ -103,7 +103,7 @@ echo '<TABLE align="center" border="1" width="800">';
         </tr>
         <tr>
             <td background ="images/bg-3.jpg" colspan="2" valign="middle" height="90">
-                <font size="4">Сайт розробив "Смоляр"</font>
+                <font size="4">Сайт розробив "Богачук Максим"</font>
             </td>
         </tr>
     </table>
